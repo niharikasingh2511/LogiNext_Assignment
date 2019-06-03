@@ -1,0 +1,10 @@
+span.match {
+  background-color: #f8dda9;
+  border: 1px solid #edd19b;
+  margin: -1px;
+  color: #390705;
+}
+
+td {
+  text-align: center;
+}
